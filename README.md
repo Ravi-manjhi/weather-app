@@ -23,8 +23,8 @@ This project is a mobile-friendly weather application that fetches real-time wea
 
 1. **Clone the Repository**:
     ```bash
-    git clone [repository-link]
-    cd [repository-name]
+    git clone 
+    cd 
     ```
 
 2. **Install Dependencies**:
@@ -53,7 +53,8 @@ This project is a mobile-friendly weather application that fetches real-time wea
     - Update the database connection string in the `config` file.
 
 7. **Access the App**:
-    - Open your browser and visit: `http://localhost:8080`
+    - Open your browser and visit API: `http://localhost:4000`
+    - Open your browser and visit WEB: `http://localhost:5173`
 
 ## Additional Comments:
 - The app is designed to be mobile-responsive.
